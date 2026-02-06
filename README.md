@@ -1,31 +1,27 @@
 # Project Name
 
-TODO: Write a project description
+Simple JSON that feeds a custom dashboard. Nothing else to see here.
 
 ## Installation
 
-TODO: Describe the installation process
+It's just a JSON file, how could you possibly "Install It"?
 
 ## Usage
 
-TODO: Write usage instructions
+If you don't know what this is, you proll should not be using it
 
 ## Contributing
 
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
+Closed to PRs
 
 ## History
 
-TODO: Write history
+Nope
 
 ## Credits
 
-TODO: Write credits
+Me
 
 ## License
 
-TODO: Write license
+Seriously, it's just a JSON file. Use it however you want to.
