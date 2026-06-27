@@ -1,6 +1,6 @@
 [
-  { "label": "New York", "locale": "America/New_York" },
   { "label": "Los Angeles", "locale": "America/Los_Angeles" },
-  { "label": "Belgrade", "locale": "Europe/Belgrade" },
-  { "label": "Mumbai", "locale": "Asia/Kolkata" }
+  { "label": "Phoenix", "locale": "America/Phoenix" },
+  { "label": "Denver", "locale": "Asia/Denver" },
+  { "label": "New York", "locale": "America/New_York" }
 ]
