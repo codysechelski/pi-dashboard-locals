@@ -1,5 +1,5 @@
 [
   { "label": "Los Angeles", "locale": "America/Los_Angeles" },
-  { "label": "Denver", "locale": "Asia/Denver" },
+  { "label": "Denver", "locale": "America/Denver" },
   { "label": "New York", "locale": "America/New_York" }
 ]
