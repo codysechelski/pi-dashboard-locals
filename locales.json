@@ -2,5 +2,5 @@
   { "label": "Los Angeles", "locale": "America/Los_Angeles" },
   { "label": "Denver", "locale": "America/Denver" },
   { "label": "New York", "locale": "America/New_York" },
-  { "label": "Brazil", "locale": "America/Sao_Paulo" }
+  { "label": "Sao Paulo", "locale": "America/Sao_Paulo" }
 ]
